@@ -7,7 +7,8 @@ How to Run:
 2. open terminal
 3. cd project_folder
 4. pod install
-5. cp sample-Config.xcconfig Config.xcconfig
-6. edit your Config.xcconfig with a valid credential
-7. open Yelp Demo.xcworkspace
-8. run project and fun :)
+5. cd Yelp\ Demo
+6. cp sample-Config.xcconfig Config.xcconfig
+7. edit your Config.xcconfig with a valid credential
+8. open Yelp Demo.xcworkspace
+9. run project and fun :)
