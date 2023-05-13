@@ -1,0 +1,12 @@
+//
+//  sample-Config.xcconfig
+//  Yelp Demo
+//
+//  Created by Bambang on 13/05/23.
+//
+
+// Configuration settings file format documentation can be found at:
+// https://help.apple.com/xcode/#/dev745c5c974
+
+MY_API_KEY = paste_your_api_key_here
+MY_CLIENT_ID = paste_your_client_id_here
